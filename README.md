@@ -6,7 +6,7 @@ Before running the script, make sure to install the following libraries:
 * re
 * time
 * requests
-You also need to have the Chrome web browser installed on your machine.
+ 
 
 ## USage 
 To use the scraper, create an instance of the Amazon class with the following parameters:
